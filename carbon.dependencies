@@ -4,8 +4,10 @@
     "target_path": "device/samsung/klte-common"
   },
   {
-    "repository": "CarbonDev/proprietary_vendor_samsung",
-    "target_path": "vendor/samsung"
+    "remote": "tm",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-11.0"
   },
   {
     "remote": "cm",
